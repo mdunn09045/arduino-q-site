@@ -1,0 +1,8 @@
+{
+  "name": "Remix Grace Hopper Hacks — Arduino UNO Q Light Grid \u0026 Morse Studio",
+  "description": "Create custom pixel art animations for the Arduino UNO Q (Qualcomm Dragonwing QRB2210 + STM32U585) 13x8 light grid with AI prompt generation, App Lab Python scripts, and C++ sketches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
